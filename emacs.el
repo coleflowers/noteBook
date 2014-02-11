@@ -20,6 +20,9 @@
 ;; 不起作用，不调用了
 ;;(global-set-key [f7] 'indent-whole)
 
+;; 指定semantic临时文件的路径，避免到处都是临时文件
+;;(setq semanticdb-default-save-directory "~/backups/emacs")
+
 ;; php start >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 ;;php-mode
 
