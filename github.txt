@@ -1,9 +1,27 @@
 github 删除
 git rm filename
 push之后就删除了
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@github 通过配置忽略某些文件 start
+项目目录创建文件.gitignore
+加入忽略的文件
+比如
+#忽略gitignore
+.gitignore
+#忽略~结尾的文件
+*.*~
+
+规则如下
+？：代表任意的一个字符
+＊：代表任意数目的字符
+{!ab}：必须不是此类型
+{ab,bb,cx}：代表ab,bb,cx中任一类型即可
+[abc]：代表a,b,c中任一字符即可
+[ ^abc]：代表必须不是a,b,c中任一字符
+# ：注释
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@github 通过配置忽略某些文件 end
 
 
-@@github ubuntu 配置 start 
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@github ubuntu 配置 start 
 把下列命令邮件换成自己的，然后在终端输入
 ssh-keygen -C "yourname@yourcompany.com" -f ~/.ssh/github
 会有自动提示步骤，完了，只要github.pub文件内容拷贝到剪切板 加入到github的SSH Keys中即可
@@ -13,6 +31,6 @@ ssh -T git@github.com
 说明配置成功
 
 参考 http://www.linuxidc.com/Linux/2012-06/62168p2.htm
-@@github ubuntu 配置 end
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@github ubuntu 配置 end
 
-@@git 服务端 客户端配置 与github无关 http://www.linuxidc.com/Linux/2012-09/71400.htm
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@git 服务端 客户端配置 与github无关 http://www.linuxidc.com/Linux/2012-09/71400.htm
