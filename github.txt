@@ -1,0 +1,3 @@
+github 删除
+git rm filename
+push之后就删除了
