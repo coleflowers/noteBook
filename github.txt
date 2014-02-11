@@ -1,3 +1,13 @@
 github 删除
 git rm filename
 push之后就删除了
+
+
+github ubuntu 配置
+把下列命令邮件换成自己的，然后在终端输入
+ssh-keygen -C "yourname@yourcompany.com" -f ~/.ssh/github
+会有自动提示步骤，完了，只要github.pub文件内容拷贝到剪切板 加入到github的SSH Keys中即可
+
+ssh -T git@github.com
+执行后提示：Hi github! You've successfully authenticated, but GitHub does not provide shell access.
+说明配置成功
