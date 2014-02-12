@@ -1,0 +1,26 @@
+6、插件开发完成后，下面就需要给插件绑定快捷键了，在你的插件目录下建立Default (Windows).sublime-keymap, Default (Linux).sublime-keymap and Default (OSX).sublime-keymap文件，他们分别是给不同的平台使用的。内容大致如下：
+
+ 
+
+[
+ {
+ "keys": ["ctrl+alt+k"],
+ "command": "keymapmanager"
+ }
+]
+ 
+
+这个文件完全是个JSON格式，ctrl+alt+k就表示这个插件的快捷键了，当然这个快捷键最好不要跟其他插件的快捷键冲突了。
+
+7、如果你想把你的插件植入到顶部菜单或者右键菜单里，你可以通过建立下面的文件方式进行：
+
+Main.sublime-menu 顶部菜单
+
+Side Bar.sublime-menu  右键操作左侧Side Bar菜单
+
+Context.sublime-menu controls 右键操作文件菜单
+
+///////////上边来自 http://code-tech.diandian.com/post/2012-06-06/40027735364
+
+
+///////////这个也可以参考 http://www.bluesdream.com/blog/write-your-own-sublime-text2-plug.html
