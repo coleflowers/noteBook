@@ -1,4 +1,4 @@
-6¡¢²å¼ş¿ª·¢Íê³Éºó£¬ÏÂÃæ¾ÍĞèÒª¸ø²å¼ş°ó¶¨¿ì½İ¼üÁË£¬ÔÚÄãµÄ²å¼şÄ¿Â¼ÏÂ½¨Á¢Default (Windows).sublime-keymap, Default (Linux).sublime-keymap and Default (OSX).sublime-keymapÎÄ¼ş£¬ËûÃÇ·Ö±ğÊÇ¸ø²»Í¬µÄÆ½Ì¨Ê¹ÓÃµÄ¡£ÄÚÈİ´óÖÂÈçÏÂ£º
+6ã€æ’ä»¶å¼€å‘å®Œæˆåï¼Œä¸‹é¢å°±éœ€è¦ç»™æ’ä»¶ç»‘å®šå¿«æ·é”®äº†ï¼Œåœ¨ä½ çš„æ’ä»¶ç›®å½•ä¸‹å»ºç«‹Default (Windows).sublime-keymap, Default (Linux).sublime-keymap and Default (OSX).sublime-keymapæ–‡ä»¶ï¼Œä»–ä»¬åˆ†åˆ«æ˜¯ç»™ä¸åŒçš„å¹³å°ä½¿ç”¨çš„ã€‚å†…å®¹å¤§è‡´å¦‚ä¸‹ï¼š
 
  
 
@@ -10,17 +10,21 @@
 ]
  
 
-Õâ¸öÎÄ¼şÍêÈ«ÊÇ¸öJSON¸ñÊ½£¬ctrl+alt+k¾Í±íÊ¾Õâ¸ö²å¼şµÄ¿ì½İ¼üÁË£¬µ±È»Õâ¸ö¿ì½İ¼ü×îºÃ²»Òª¸úÆäËû²å¼şµÄ¿ì½İ¼ü³åÍ»ÁË¡£
+è¿™ä¸ªæ–‡ä»¶å®Œå…¨æ˜¯ä¸ªJSONæ ¼å¼ï¼Œctrl+alt+kå°±è¡¨ç¤ºè¿™ä¸ªæ’ä»¶çš„å¿«æ·é”®äº†ï¼Œå½“ç„¶è¿™ä¸ªå¿«æ·é”®æœ€å¥½ä¸è¦è·Ÿå…¶ä»–æ’ä»¶çš„å¿«æ·é”®å†²çªäº†ã€‚
 
-7¡¢Èç¹ûÄãÏë°ÑÄãµÄ²å¼şÖ²Èëµ½¶¥²¿²Ëµ¥»òÕßÓÒ¼ü²Ëµ¥Àï£¬Äã¿ÉÒÔÍ¨¹ı½¨Á¢ÏÂÃæµÄÎÄ¼ş·½Ê½½øĞĞ£º
+7ã€å¦‚æœä½ æƒ³æŠŠä½ çš„æ’ä»¶æ¤å…¥åˆ°é¡¶éƒ¨èœå•æˆ–è€…å³é”®èœå•é‡Œï¼Œä½ å¯ä»¥é€šè¿‡å»ºç«‹ä¸‹é¢çš„æ–‡ä»¶æ–¹å¼è¿›è¡Œï¼š
 
-Main.sublime-menu ¶¥²¿²Ëµ¥
+Main.sublime-menu é¡¶éƒ¨èœå•
 
-Side Bar.sublime-menu  ÓÒ¼ü²Ù×÷×ó²àSide Bar²Ëµ¥
+Side Bar.sublime-menu  å³é”®æ“ä½œå·¦ä¾§Side Barèœå•
 
-Context.sublime-menu controls ÓÒ¼ü²Ù×÷ÎÄ¼ş²Ëµ¥
-
-///////////ÉÏ±ßÀ´×Ô http://code-tech.diandian.com/post/2012-06-06/40027735364
+Context.sublime-menu controls å³é”®æ“ä½œæ–‡ä»¶èœå•
 
 
-///////////Õâ¸öÒ²¿ÉÒÔ²Î¿¼ http://www.bluesdream.com/blog/write-your-own-sublime-text2-plug.html
+æ‰§è¡Œå‘½ä»¤ç”¨ view.run_command('example')  å½“ç„¶è¿™ä¸ªçœ‹ç”¨çš„å‘½åäº†ï¼Œæ¯”å¦‚
+view.run_command('go_search')
+
+///////////ä¸Šè¾¹æ¥è‡ª http://code-tech.diandian.com/post/2012-06-06/40027735364
+
+
+///////////è¿™ä¸ªä¹Ÿå¯ä»¥å‚è€ƒ http://www.bluesdream.com/blog/write-your-own-sublime-text2-plug.html
