@@ -30,3 +30,6 @@ view.run_command('go_search')
 ///////////这个也可以参考 http://www.bluesdream.com/blog/write-your-own-sublime-text2-plug.html
 
 /////////////////这个不错，http请求相关资料 http://www.kuqin.com/webpagedesign/20121124/333886.html
+
+
+///////////////官方接口 http://www.sublimetext.com/docs/2/api_reference.html
