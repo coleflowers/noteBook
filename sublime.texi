@@ -33,3 +33,4 @@ view.run_command('go_search')
 
 
 ///////////////官方接口 http://www.sublimetext.com/docs/2/api_reference.html
+///////////////官方接口2 http://www.sublimetext.com/docs/3/api_reference.html
