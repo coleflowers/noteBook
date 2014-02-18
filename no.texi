@@ -7,3 +7,6 @@
 网店系统：SHOPEX ECSHOP SHOPNC HISHOP V5SHOP
 团购系统：最土团购
 论坛系统：DISCUZPHPWIND
+
+1.SHOPNC
+http://www.shopnc.net/
