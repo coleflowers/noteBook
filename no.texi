@@ -10,3 +10,7 @@
 
 1.SHOPNC
 http://www.shopnc.net/
+
+
+关于 Zend Optimizer
+当php的代码被Zend Guard加密过后，必须安装解密软件Zend Optimizer才能进行使用。比如Shopex,Shopnc.
