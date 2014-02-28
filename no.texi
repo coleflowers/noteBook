@@ -14,3 +14,9 @@ http://www.shopnc.net/
 
 关于 Zend Optimizer
 当php的代码被Zend Guard加密过后，必须安装解密软件Zend Optimizer才能进行使用。比如Shopex,Shopnc.
+
+------------------------------------------------------------------------------
+artDialog
+一个js项目
+http://123.125.32.5/public/artDialog/
+http://code.google.com/p/artdialog/
