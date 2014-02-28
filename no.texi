@@ -17,6 +17,6 @@ http://www.shopnc.net/
 
 ------------------------------------------------------------------------------
 artDialog
-一个js项目
+一个js项目，javascript对话框组件
 http://123.125.32.5/public/artDialog/
 http://code.google.com/p/artdialog/
