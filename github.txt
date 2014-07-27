@@ -60,4 +60,4 @@ ssh -T git@github.com
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@git 服务端 客户端配置 与github无关 http://www.linuxidc.com/Linux/2012-09/71400.htm
 
-fdsfds
+ 
