@@ -1,0 +1,3 @@
+tomcat class 目录编译引入第三方包编译
+
+javac -classpath ./JavaPNS_2.2.jar  -encoding utf8 *.java
