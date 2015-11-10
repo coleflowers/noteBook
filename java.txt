@@ -1,3 +1,6 @@
 tomcat class 目录编译引入第三方包编译
 
 javac -classpath ./JavaPNS_2.2.jar  -encoding utf8 *.java
+
+- eclisp 打包jar 
+http://www.cnblogs.com/vivid-stanley/archive/2012/02/18/2357182.html
