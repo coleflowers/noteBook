@@ -4,3 +4,9 @@ javac -classpath ./JavaPNS_2.2.jar  -encoding utf8 *.java
 
 - eclisp 打包jar 
 http://www.cnblogs.com/vivid-stanley/archive/2012/02/18/2357182.html
+
+- android文件存储的4种方式
+Context.MODE_PRIVATE    =  0
+Context.MODE_APPEND    =  32768
+Context.MODE_WORLD_READABLE =  1
+Context.MODE_WORLD_WRITEABLE =  2 
