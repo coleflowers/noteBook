@@ -1,25 +1,36 @@
-.chmÎÄ¼ş ±àÒë·´±àÒëÈí¼şEasyCHM.exe
+.chmæ–‡ä»¶ ç¼–è¯‘åç¼–è¯‘è½¯ä»¶EasyCHM.exe
 
 --------------------------------------------------------
 
-µçÉÌPHP¿ªÔ´ÏµÍ³
-²é¿´ÈçºÎÅäÖÃ
-ÍøµêÏµÍ³£ºSHOPEX ECSHOP SHOPNC HISHOP V5SHOP
-ÍÅ¹ºÏµÍ³£º×îÍÁÍÅ¹º
-ÂÛÌ³ÏµÍ³£ºDISCUZPHPWIND
+ç”µå•†PHPå¼€æºç³»ç»Ÿ
+æŸ¥çœ‹å¦‚ä½•é…ç½®
+ç½‘åº—ç³»ç»Ÿï¼šSHOPEX ECSHOP SHOPNC HISHOP V5SHOP
+å›¢è´­ç³»ç»Ÿï¼šæœ€åœŸå›¢è´­
+è®ºå›ç³»ç»Ÿï¼šDISCUZPHPWIND
 
 1.SHOPNC
 http://www.shopnc.net/
 
 
-¹ØÓÚ Zend Optimizer
-µ±phpµÄ´úÂë±»Zend Guard¼ÓÃÜ¹ıºó£¬±ØĞë°²×°½âÃÜÈí¼şZend Optimizer²ÅÄÜ½øĞĞÊ¹ÓÃ¡£±ÈÈçShopex,Shopnc.
+å…³äº Zend Optimizer
+å½“phpçš„ä»£ç è¢«Zend GuardåŠ å¯†è¿‡åï¼Œå¿…é¡»å®‰è£…è§£å¯†è½¯ä»¶Zend Optimizeræ‰èƒ½è¿›è¡Œä½¿ç”¨ã€‚æ¯”å¦‚Shopex,Shopnc.
 
-------------------------------------------------------------------------------
+---------------------------------------------------------------
 artDialog
-Ò»¸öjsÏîÄ¿£¬javascript¶Ô»°¿ò×é¼ş
+ä¸€ä¸ªjsé¡¹ç›®ï¼Œjavascriptå¯¹è¯æ¡†ç»„ä»¶
 http://123.125.32.5/public/artDialog/
 http://code.google.com/p/artdialog/
 
 
-fdfsd
+--------------------------------------------------------------
+<body>
+	<script>
+	function MyAddress (ip) {
+		alert(ip);
+		document.getElementById("ip").innerHTML = ip;
+	}</script>
+
+	<div id="ip"></div>
+	<APPLET CODE="MyAddress.class" MAYSCRIPT WIDTH="0" HEIGHT="0"></APPLET>
+</body>
+
