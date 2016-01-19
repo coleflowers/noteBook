@@ -39,3 +39,10 @@ http://code.google.com/p/artdialog/
 https://technet.microsoft.com/en-us/sysinternals/bb897439
 功能是搜索文件中的可打印字符
 搜索3个或3个以上连贯的ASCII或Unicode
+
+
+-----------------------------
+2502、2503
+管理员权限运行 cmd.exe
+然后执行以下命令
+msiexec /package xxx.msi
